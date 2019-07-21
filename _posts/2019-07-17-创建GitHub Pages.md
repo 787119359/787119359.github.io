@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "创建 GitHub Pages"
-tag:"学习"
+date: 2019-07-17 
+tag:学习
 ---
-
 
 ## 创建 GitHub Pages
 
