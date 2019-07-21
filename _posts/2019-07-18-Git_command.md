@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Git 命令"
-date:2019-01-18
-tag:学习
+date: 2019-01-18
+tag: 学习
 ---
 
 
