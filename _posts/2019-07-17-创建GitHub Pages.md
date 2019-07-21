@@ -1,6 +1,12 @@
+---
+layout: post
+title: "创建 GitHub Pages"
+tag:"学习"
+---
+
+
 ## 创建 GitHub Pages
 
----
 
 ### 1. 创建存储库
 
