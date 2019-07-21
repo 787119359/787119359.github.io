@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Linux 常用命令"
-tag:"学习"
+date: 2019-07-19
+tag:学习
 ---
 
 
