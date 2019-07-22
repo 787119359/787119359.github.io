@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习日志"
+title: "2019.7.17 学习日志"
 description: "记录学习情况"
 date: 2019-07-17
 tag: 日志
