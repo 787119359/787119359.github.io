@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "2019.7.21 学习日志"
+title: "学习日志 2019.7.21"
 date: 2019-07-21
 tag: 日志
 ---
 
 ### 今日学习内容
-
-1. 完善博客
 
 2. 学习 Linux 操作
 
@@ -39,6 +37,23 @@ tag: 日志
    # 把远程家目录下的Desktop 复制到当前目录下的 demo 文件夹
    scp -r user@remote:Desktop demo
    
+   ```
+
+4. 免密登陆
+
+   配置公匙：执行`ssh-keygen`生成SSH 钥匙
+
+   上传公匙到服务器：执行 `ssh-copy-id -p port user@remote`
+   
+6. 配置别名
+
+   在`~/.ssh/config`里面追加内容：
+
+   ```
+   Host 别名
+   	HostName 服务器端ip地址
+   	User 用户名
+   	Prot 22
    ```
 
    
