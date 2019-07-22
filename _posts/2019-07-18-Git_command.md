@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Git 命令"
-date: 2019-01-18
+date: 2019-07-18
 tag: 学习
 ---
 
 
-
-## Git-命令
 
 ### 安装git
 
