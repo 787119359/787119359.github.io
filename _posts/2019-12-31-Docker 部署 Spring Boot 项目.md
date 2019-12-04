@@ -2,7 +2,7 @@
 layout: post
 title: "Docker 部署 Spring Boot 项目"
 date: 2019-12-03
-tag: Java Docker
+tag: Docker
 ---
 
 ## 一、前提条件
