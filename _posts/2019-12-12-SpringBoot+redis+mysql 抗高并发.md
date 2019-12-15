@@ -35,11 +35,11 @@ tag: Java
 
 #### 1. 库存表
 
-![商品库存表](\images\post\SpringBoot + redis + mysql 抗高并发\商品库存表.png)
+![商品库存表](\images\posts\SpringBoot + redis + mysql 抗高并发\商品库存表.png)
 
 #### 2. 订单表
 
-![订单表](\images\post\SpringBoot + redis + mysql 抗高并发\订单表.png)
+![订单表](\images\posts\SpringBoot + redis + mysql 抗高并发\订单表.png)
 
 ### 三、项目依赖
 
@@ -52,7 +52,7 @@ tag: Java
 
 ### 四、项目目录
 
-![项目目录](images\post\SpringBoot + redis + mysql 抗高并发\项目目录.png)
+![项目目录](\images\posts\SpringBoot + redis + mysql 抗高并发\项目目录.png)
 
 
 
